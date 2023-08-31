@@ -8,7 +8,7 @@ while True:
     cnt = 0
     
     if isR and isG and isB:
-        print("조건 만족")
+        # print("조건 만족")
         
         for i in range(r):
             for j in range(g):
