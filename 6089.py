@@ -19,5 +19,5 @@ while True:
         print(a)    
         break
     else:
-        print("입력 값을 확인하세요")
+        print("입력값을 확인하세요")
         continue
